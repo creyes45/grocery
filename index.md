@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[Shop for Groceries](Shop-for-Groceries.html)
+[Shop For Groceries](Shop-For-Groceries.html)
 
 [Review Products](Review-Products.html)
 
