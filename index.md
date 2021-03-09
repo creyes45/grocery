@@ -2,6 +2,8 @@
 
 [Shop For Groceries](Shop-For-Groceries.html)
 
+[Register](Register.html)
+
 [Review Products](Review-Products.html)
 
 [Save Orders](Save-Orders.html)
